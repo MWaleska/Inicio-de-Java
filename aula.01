@@ -12,3 +12,18 @@ public class Noite01 {
 	}
 
 }
+
+//concatenação
+
+public class Aula02 {
+	
+	public static void main(String[] args) {
+		
+		String nome ="João";
+		String sobreNome ="Pessoa";
+		
+		System.out.println("Meu nome é:" + nome +" " + sobreNome);
+	}
+
+}
+
